@@ -1,0 +1,2 @@
+[servers]
+example = { name = "<red>example", url = "https://example.com" }
